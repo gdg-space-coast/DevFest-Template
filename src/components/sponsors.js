@@ -1,6 +1,6 @@
 import React from "react";
-import GoogleLogo from "../assets/sponsors/Google_2015_logo.png";
-import SeminoleStateLogo from "../assets/sponsors/logo-seminole-state-2line-cmyk-2019.png";
+import GoogleLogo from "../assets/2023/sponsors/Google_2015_logo.png";
+import SeminoleStateLogo from "../assets/2023/sponsors/logo-seminole-state-2line-cmyk-2019.png";
 
 const SponsorLogos = () => (
   <div className="text-center my-20">
