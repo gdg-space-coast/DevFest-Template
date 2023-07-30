@@ -1,6 +1,6 @@
 import React from "react";
-import USFLogo from "../assets/2023/USF-Logo.png";
 import GoogleLogo from "../assets/2023/sponsors/Google_2015_logo.png";
+import USFLogo from "../assets/2023/sponsors/USF-Logo.png";
 
 const SponsorLogos = () => (
   <div className="text-center my-20">

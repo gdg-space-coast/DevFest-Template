@@ -1,5 +1,6 @@
 import React from 'react';
-import VenueImage from "../assets/2023/USF-Logo.png";
+import VenueImage from "../assets/2023/sponsors/USF-Logo.png";
+
 
 const LocationSection = () => (
   <section className='my-20'>
