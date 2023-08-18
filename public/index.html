@@ -78,13 +78,13 @@
       }
       </script>
       <style>
-        main { flex-direction: column; }
+        main { flex-direction: column; min-height: 100dvh; min-width: 100dvw; flex-grow: 1; }
         @media (min-width: 640px) { main { flex-direction: row; }}
       </style>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <main id="root" class="w-screen flex"></main>
+    <main id="root" class="flex justify-between"></main>
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
