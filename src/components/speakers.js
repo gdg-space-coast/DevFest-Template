@@ -9,7 +9,7 @@ const SpeakerProfiles = () => {
     const [speakers, setSpeakers] = useState([])
    
     const fetchData = () => {
-        fetch('https://sessionize.com/api/v2/0lpmroyx/view/Speakers')
+        fetch('https://sessionize.com/api/v2/dd70zb20/view/Speakers')
         .then(response => {
             return response.json()
         })
