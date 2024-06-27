@@ -2,11 +2,11 @@ import React from "react";
 import { FaGlobe, FaLinkedin, FaMeetup, FaTwitter } from "react-icons/fa";
 
 const CityBanner = ({
-  src,
   alt,
   date,
   url,
   color = "bg-black",
+  location,
   gdgWebsite,
   twitter,
   linkedIn,
@@ -16,14 +16,15 @@ const CityBanner = ({
 }) => (
   <article
     id={id}
-    className={`${color} text-black flex flex-row md:flex-col place-items-center justify-center p-1 md:p-5 lg:p-20 grow`}
+    className={`${color} text-black flex flex-col place-items-center justify-start p-6 md:p-7 xl:p-8 grow w-100 xl:w-1/3`}
   >
-    <a href={url}>
-      <img src={src} className="p-6 md:p-2 lg:p-5" alt={alt} />
-      <h2 className="text-white text-center font-semibold w-100">{date}</h2>
-    </a>
+    <h1 class="border-8 p-8 border-current rounded-full center">{alt}</h1>
+    <h2 class="text-center font-semibold w-100  center">
+      {location && (location = <p>{location}</p>)}
+      <p>{date}</p>
+    </h2>
 
-    <ul className="hidden md:flex flex-row space-y-0 space-x-4 text-xl my-4 w-100 place-items-center justify-center">
+    <ul className="flex flex-row space-y-0 space-x-4 text-xl my-4 w-100 place-items-center justify-center">
       <li className="m-0">
         <a href={gdgWebsite} aria-label={`GDG ${chapterName} Website`}>
           <FaGlobe />

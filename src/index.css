@@ -72,11 +72,3 @@
   animation-timeline: scroll();
   animation-range: 0vh 90vh;
 }
-
-body {
-  padding-top: 100vh;
-}
-
-main {
-  padding-top: 100px;
-}

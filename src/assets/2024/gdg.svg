@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1920" height="1080" viewBox="0, 0, 1920, 1080">
+  <g id="Layer_1">
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 1591.477, 714.769)">
+        <tspan x="-247.344" y="31.896" font-family="GoogleSans-Bold" font-size="128" kerning="-0.687" fill="#1E1E1E">G</tspan>
+        <tspan x="-144.864" y="31.896" font-family="GoogleSans-Bold" font-size="128" kerning="-0.13" fill="#1E1E1E">r</tspan>
+        <tspan x="-94.177" y="31.896" font-family="GoogleSans-Bold" font-size="128" kerning="-1.077" fill="#1E1E1E">o</tspan>
+        <tspan x="-17.174" y="31.896" font-family="GoogleSans-Bold" font-size="128" kerning="-1.031" fill="#1E1E1E">u</tspan>
+        <tspan x="58.467" y="31.896" font-family="GoogleSans-Bold" font-size="128" kerning="-1.349" fill="#1E1E1E">p</tspan>
+        <tspan x="137.374" y="31.896" font-family="GoogleSans-Bold" font-size="128" kerning="0" fill="#1E1E1E">s</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 1402.102, 536.127)">
+        <tspan x="-325.524" y="40" font-family="GoogleSans-Bold" font-size="128" kerning="-0.843" fill="#1E1E1E">D</tspan>
+        <tspan x="-233.823" y="40" font-family="GoogleSans-Bold" font-size="128" kerning="-2.153" fill="#1E1E1E">e</tspan>
+        <tspan x="-162.12" y="40" font-family="GoogleSans-Bold" font-size="128" kerning="-2.328" fill="#1E1E1E">v</tspan>
+        <tspan x="-92.384" y="40" font-family="GoogleSans-Bold" font-size="128" kerning="-0.908" fill="#1E1E1E">el</tspan>
+        <tspan x="13.576" y="40" font-family="GoogleSans-Bold" font-size="128" kerning="-0.649" fill="#1E1E1E">o</tspan>
+        <tspan x="91.007" y="40" font-family="GoogleSans-Bold" font-size="128" kerning="-0.837" fill="#1E1E1E">p</tspan>
+        <tspan x="170.427" y="40" font-family="GoogleSans-Bold" font-size="128" kerning="-0.973" fill="#1E1E1E">e</tspan>
+        <tspan x="244.59" y="40" font-family="GoogleSans-Bold" font-size="128" kerning="0" fill="#1E1E1E">r</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 1202.2, 362.627)">
+        <tspan x="-245.049" y="34.5" font-family="GoogleSans-Bold" font-size="128" kerning="-0.85" fill="#1E1E1E">G</tspan>
+        <tspan x="-140.81" y="34.5" font-family="GoogleSans-Bold" font-size="128" kerning="-0.811" fill="#1E1E1E">o</tspan>
+        <tspan x="-62.901" y="34.5" font-family="GoogleSans-Bold" font-size="128" kerning="-0.973" fill="#1E1E1E">og</tspan>
+        <tspan x="93.746" y="34.5" font-family="GoogleSans-Bold" font-size="128" kerning="-0.908" fill="#1E1E1E">l</tspan>
+        <tspan x="126.118" y="34.5" font-family="GoogleSans-Bold" font-size="128" kerning="0" fill="#1E1E1E">e</tspan>
+      </text>
+    </g>
+    <g>
+      <path d="M549.128,378.391 L549.128,378.391 C573.71,412.595 565.908,460.251 531.704,484.832 L368.782,601.92 C334.578,626.502 286.922,618.701 262.34,584.497 L262.34,584.497 C237.759,550.292 245.559,502.636 279.764,478.056 L442.687,360.967 C476.891,336.385 524.546,344.187 549.128,378.391" fill="#EA4335"/>
+      <path d="M549.628,378.891 L549.628,378.891 C574.21,413.095 566.408,460.751 532.204,485.332 L369.282,602.42 C335.078,627.002 287.422,619.201 262.84,584.997 L262.84,584.997 C238.259,550.792 246.059,503.136 280.264,478.556 L443.187,361.467 C477.391,336.885 525.046,344.687 549.628,378.891 z" fill-opacity="0" stroke="#1E1E1E" stroke-width="20"/>
+      <path d="M262.341,495.504 L262.341,495.504 C237.758,529.708 245.56,577.364 279.764,601.944 L442.686,719.033 C476.891,743.615 524.546,735.813 549.129,701.609 L549.129,701.609 C573.709,667.405 565.909,619.749 531.705,595.168 L368.781,478.08 C334.577,453.498 286.923,461.299 262.341,495.504" fill="#4285F4"/>
+      <path d="M262.841,496.004 L262.841,496.004 C238.258,530.208 246.06,577.864 280.264,602.444 L443.186,719.533 C477.391,744.115 525.046,736.313 549.629,702.109 L549.629,702.109 C574.209,667.905 566.409,620.249 532.205,595.668 L369.281,478.58 C335.077,453.998 287.423,461.799 262.841,496.004 z" fill-opacity="0" stroke="#1E1E1E" stroke-width="20"/>
+      <path d="M942.811,495.504 L942.811,495.504 C967.393,529.708 959.591,577.364 925.387,601.944 L762.465,719.033 C728.261,743.615 680.605,735.813 656.023,701.609 L656.023,701.609 C631.442,667.405 639.242,619.749 673.446,595.168 L836.37,478.08 C870.574,453.498 918.229,461.299 942.811,495.504" fill="#F9AB00"/>
+      <path d="M943.311,496.004 L943.311,496.004 C967.893,530.208 960.091,577.864 925.887,602.444 L762.965,719.533 C728.761,744.115 681.105,736.313 656.523,702.109 L656.523,702.109 C631.942,667.905 639.742,620.249 673.946,595.668 L836.87,478.58 C871.074,453.998 918.729,461.799 943.311,496.004 z" fill-opacity="0" stroke="#0D0D0D" stroke-width="20"/>
+      <path d="M656.023,378.391 L656.023,378.391 C631.441,412.595 639.243,460.251 673.447,484.832 L836.369,601.92 C870.573,626.502 918.229,618.701 942.811,584.497 L942.811,584.497 C967.392,550.292 959.592,502.636 925.388,478.056 L762.464,360.967 C728.26,336.385 680.605,344.187 656.023,378.391" fill="#34A853"/>
+      <path d="M656.523,378.891 L656.523,378.891 C631.941,413.095 639.743,460.751 673.947,485.332 L836.869,602.42 C871.073,627.002 918.729,619.201 943.311,584.997 L943.311,584.997 C967.892,550.792 960.092,503.136 925.888,478.556 L762.964,361.467 C728.76,336.885 681.105,344.687 656.523,378.891 z" fill-opacity="0" stroke="#0D0D0D" stroke-width="20"/>
+    </g>
+  </g>
+</svg>
