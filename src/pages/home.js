@@ -89,6 +89,33 @@ const Home = () => (
         chapterName="Tampa"
       >
         <ul className="flex flex-row space-y-0 space-x-4 text-xl my-4 w-100 place-items-center justify-center">
+          <li className="m-0">USF</li>
+          <li className="m-0">
+            <a
+              href="https://gdsc.community.dev/university-of-south-florida-tampa-united-states/"
+              aria-label={`GDSC USF Website`}
+            >
+              <FaGlobe />
+            </a>
+          </li>
+          <li className="m-0">
+            <a
+              href={"https://www.twitter.com/usfgdsc"}
+              aria-label={`Follow GDSC USF on Twitter`}
+            >
+              <FaTwitter />
+            </a>
+          </li>
+          <li className="m-0">
+            <a
+              href="https://www.linkedin.com/company/usfgdsc"
+              aria-label={`Follow GDSC USF on LinkedIn`}
+            >
+              <FaLinkedin />
+            </a>
+          </li>
+        </ul>
+        <ul className="flex flex-row space-y-0 space-x-4 text-xl my-4 w-100 place-items-center justify-center">
           <li className="m-0">
             <a href="https://2023-tampa.devfestflorida.com/">
               DevFest Tampa 2023
