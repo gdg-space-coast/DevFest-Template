@@ -1,42 +1,43 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500;600;700&display=swap");
 
 @tailwind base;
 @tailwind components;
 
 @font-face {
-    font-family: 'GoogleSans';
-    src: url('./assets/fonts/GoogleSans/GoogleSans-Regular-v1.27.ttf') format ('truetype');
-    font-weight: 400;
-    font-style: normal;
+  font-family: "GoogleSans";
+  src: url("./assets/fonts/GoogleSans/GoogleSans-Regular-v1.27.ttf") format
+    ("truetype");
+  font-weight: 400;
+  font-style: normal;
 }
 
 @layer base {
-    html {
-        @apply text-Grey900;
-    }
-    h1 {
-        @apply text-4xl;
-        @apply font-semibold;
-        @apply my-2;
-    }
-    h2 {
-        @apply text-3xl;
-        @apply font-semibold;
-        @apply my-2;
-    }
-    h3 {
-        @apply text-2xl;
-        @apply my-2;
+  html {
+    @apply text-Grey900;
+    @apply bg-Grey200;
+  }
+  h1 {
+    @apply text-4xl;
+    @apply font-semibold;
+    @apply my-2;
+  }
+  h2 {
+    @apply text-3xl;
+    @apply font-semibold;
+    @apply my-2;
+  }
+  h3 {
+    @apply text-2xl;
+    @apply my-2;
+  }
+  a {
+    @apply hover:text-LightBlue;
+  }
+  p {
+    @apply my-5;
+  }
 
-    }
-    a {
-        @apply hover:text-LightBlue;
-    }
-    p {
-        @apply my-5;
-    }
-    
-    /* body {
+  /* body {
         display: flex; 
         flex-direction: column;
         margin: 0;
@@ -46,7 +47,28 @@
     main {
         flex: 1;
     } */
-
 }
 
 @tailwind utilities;
+
+@keyframes sticky-parallax-header-move-and-size {
+  from {
+    background-position: 50% 0;
+    height: 100vh;
+    font-size: calc(4vw + 1em);
+  }
+  to {
+    background-position: 50% 0;
+    height: 100px;
+    font-size: 2em;
+  }
+}
+
+#sticky-parallax-header {
+  position: fixed;
+  top: 0;
+
+  animation: sticky-parallax-header-move-and-size linear forwards;
+  animation-timeline: scroll();
+  animation-range: 0vh 90vh;
+}
